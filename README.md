@@ -1,11 +1,10 @@
 # Elevate_Labs_Task-7
 
-```markdown
 #  Sales Data Analysis with Python and SQLite
 
 This project demonstrates how to use Python to connect to a SQLite database, run basic SQL queries, and visualize simple sales metrics using pandas and matplotlib.
 
-## 🎯 Objective
+## Objective
 
 - Create a SQLite database and table
 - Insert sample sales data
@@ -13,7 +12,7 @@ This project demonstrates how to use Python to connect to a SQLite database, run
 - Load results into pandas
 - Display the data using `print` and a bar chart
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python 3
 - SQLite (`sqlite3`)
@@ -21,14 +20,14 @@ This project demonstrates how to use Python to connect to a SQLite database, run
 - matplotlib
 - Jupyter Notebook or a .py file
 
-## 📁 Files Included
+##  Files Included
 
 - `Task-7(python connection with sqlite3).ipynb` — main Jupyter notebook
 - `sales_data.db` — generated SQLite database
 - `sales_chart.png` *(optional)* — saved bar chart image
 - `README.md` — this documentation
 
-## 🧪 How to Run
+##  How to Run
 
 1. **Install requirements** (if not already installed):
    ```bash
