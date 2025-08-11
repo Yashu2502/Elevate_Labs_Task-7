@@ -1,5 +1,3 @@
-# Elevate_Labs_Task-7
-
 #  Sales Data Analysis with Python and SQLite
 
 This project demonstrates how to use Python to connect to a SQLite database, run basic SQL queries, and visualize simple sales metrics using pandas and matplotlib.
